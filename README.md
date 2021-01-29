@@ -9,8 +9,11 @@ Além disso também pretendemos refletir sobre o processos internos de adminstra
 
 ## Metodologia
 
-Vamos utilizar Python e SQL para converter o Banco de Dados em conjuntos de dados tabulados e a partir deles, estudar outras formas de publicação além das atuais.
+Utilizamos Python e SQL para converter o Banco de Dados em conjuntos de dados tabulados e a partir deles, estudar outras formas de publicação além das atuais. Dessa forma passamos de um paradgma de banco de dados para a possibildiade de análise de um conjunto de dados.
+
+Acreditamos que analisar o conjunto de dados do ObservaSampa pode trazer reflexões e possibilidade de como administrar, visualizar e publicar indicadores do município de São Paulo.
 
 ## Resultados
 
-Os resultados preliminares, que são tabelas em formato CSV comprimidas, estão disponíveis na pasta resultados.
+Os resultados preliminares, que são tabelas em formato CSV comprimidas, estão disponíveis na pasta resultados. São resultados preliminares, mas novas análises e processamentos serão atualizados por aqui.
+
