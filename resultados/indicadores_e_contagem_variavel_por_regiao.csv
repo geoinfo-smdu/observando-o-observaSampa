@@ -1,0 +1,112 @@
+cd_indicador,nm_indicador,cd_regiao
+27.0,Alunos da rede municipal de ensino do sexo feminino (%),129
+28.0,Alunos da rede municipal de ensino do sexo masculino (%),129
+29.0,Taxa de Universalização da Educação Básica (%),129
+31.0,Alunos por turma do ensino fundamental da rede municipal,129
+37.0,[ODS.04.02] Taxa de Universalização da Educação Infantil (somente creche) (%),129
+41.0,Alunos por turma da creche da rede pública municipal,129
+42.0,Alunos por turma da pré-escola da rede pública municipal,129
+43.0,Alunos por turma do ensino médio da rede pública municipal,129
+46.0,[ODS.04.01] Taxa de Universalização do Ensino Fundamental (%),129
+47.0,[ODS.04.02] Taxa de Universalização da Educação Infantil (somente pré-escola) (%),129
+48.0,Alunos da rede municipal de ensino da raça/cor amarela (%),129
+49.0,Alunos da rede municipal de ensino da raça/cor branca (%),129
+50.0,Alunos da rede municipal de ensino da raça/cor indígena (%),129
+52.0,Alunos da rede municipal de ensino da raça/cor parda (%),129
+55.0,Alunos da rede municipal de ensino da raça/cor preta (%),129
+58.0,Alunos do Ensino Fundamental que utilizam Transporte Escolar Gratuito (%),129
+60.0,Demanda Atendida de Vagas em Creches da Rede Municipal de Ensino (%),129
+69.0,Crianças atendidas na rede pública de creche (%),129
+72.0,Professores da rede municipal com ensino superior completo (%),129
+89.0,Taxa de evasão escolar no Ensino Fundamental da rede municipal,129
+91.0,Taxa de evasão escolar no Ensino Médio da rede municipal,129
+94.0,Taxa de repetência dos alunos no Ensino Fundamental da rede municipal (%),129
+96.0,Taxa de repetência dos alunos no Ensino Médio da rede municipal (%),129
+131.0,[ODS.04.01] Taxa de Universalização do Ensino Médio (%),129
+189.0,Solicitações do 156 – Acessibilidade (%),33
+190.0,Total de solicitações do serviço 156,33
+192.0,Quantidade de famílias em situação de extrema pobreza (até 1/4 salário mínimo),129
+211.0,[ODS.08.01] PIB per capita a preços correntes (mil R$/habitante),1
+228.0,Número de idosos concluintes da Universidade Aberta,1
+279.0,[ODS.10.02] Número de pessoas beneficiárias do Programa Transcidadania,1
+281.0,Número de matriculados nos programas de atividade física orientada,2
+315.0,[ODS08.02] Proporção de empregos em setores de média e alta intensidade tecnológica e de conhecimento (%),129
+322.0,Aglomeração de empregos no Comércio - Município em relação ao Estado,130
+325.0,Aglomeração de empregos no Comércio - Distrito em relação ao Município,129
+337.0,Aglomeração de empregos na Indústria de Transformação - Município em relação ao Estado,130
+338.0,Aglomeração de empregos na Construção Civil - Município em relação ao Estado,130
+339.0,Aglomeração de empregos em Serviços - Município em relação ao Estado,130
+340.0,Número médio de acessos nas localidades atendidas pelo WiFi aberto (por 100 mil habitantes),129
+341.0,Livros disponíveis nos serviços municipais de leitura (por mil habitantes),129
+342.0,Número de equipamentos administrados pelo novo modelo de gestão. ,1
+343.0,Número de parcerias estabelecidas para cessão de espaços públicos ociosos para fins de atividades culturais,1
+344.0,Variação percentual no número de público frequentador do Sistema Municipal de Bibliotecas (%),1
+345.0,Variação percentual no número total de público frequentador dos equipamentos culturais da Secretaria Municipal de Cultura (%),1
+347.0,Taxa de perda primária média de consultas médicas em Unidades Básicas de Saúde (UBS),1
+348.0,Proporção de óbitos nas internações por Infarto Agudo do Miocárdio (IAM) nos estabelecimentos de gestão municipal (%),1
+349.0,Índice de Discricionariedade Orçamentária (IDO),1
+350.0,Proporção de óbitos nas internações por Insuficiência Cardíaca Congestiva (ICC) e seus agravos nos estabelecimentos de gestão municipal (%),1
+351.0,Proporção de óbitos nas internações por Acidente Vascular Encefálico (AVE) nos estabelecimentos de gestão municipal (%),1
+352.0,Taxa média de absenteísmo dos pacientes em exames,1
+354.0,Número de novas equipes de abordagem do Programa Consultório na Rua implantadas,1
+355.0,Número de novos serviços de urgência e emergência implantados,1
+356.0,Número de novas Unidades Básicas de Saúde (UBS) entregues,1
+357.0,Número de novos Núcleos de Apoio à Estratégia de Saúde da Famíllia (NASF) implantados,1
+358.0,Número de novas equipes de Estratégia de Saúde da Família (ESF) implantadas,1
+359.0,Número de novas equipes de saúde bucal implantadas,1
+360.0,Número de novos nutricionistas contratados,1
+361.0,Número de novas vagas criadas em Centros de Atenção Psicosocial - CAPS III,1
+362.0,Proporção de cura dos casos novos de hanseníase diagnosticados nos anos das coortes (%),1
+363.0,Proporção de preenchimento do campo “ocupação” nas notificações de agravos relacionados ao trabalho (%),1
+364.0,Número de Unidades Básicas de Saúde reformadas,1
+365.0,Número de novos profissionais médicos na Atenção Básica à Saúde contratados,1
+367.0,Número de novos leitos hospitalares de desintoxicação disponibilizados,1
+368.0,Número de implantes subdérmicos utilizados,1
+369.0,Número de dispositivos intrauterinos utilizados por ano,1
+370.0,Número de vagas de exames disponibilizadas,1
+371.0,Taxa média de perda primária da agenda de exames,1
+372.0,Número de cidadãos atingidos por ações de educação ambiental,1
+373.0,Número de árvores plantadas,1
+374.0,"Percentual de parcerias firmadas com Secretarias Municipais da Prefeitura de São Paulo para a revisão de seus sites, no que se refere às diretrizes e ferramentas de acessibilidade digital",1
+375.0,Número de serviços de reabilitação revitalizados.,1
+376.0,Número de vistorias realizadas em equipamentos públicos municipais,1
+377.0,"Selos (inicial, intermediário e pleno) adquiridos em conformidade com o Programa São Paulo Amigo do Idoso",1
+378.0,Número de novas URSI implantadas,1
+379.0,Número de novas equipes PAI implantadas,1
+382.0,Escolas Municipais de Ensino Fundamental que oferecem turmas em educação integral em tempo integral (7h/dia ou mais),1
+383.0,Número de equipamentos esportivos reformados,1
+384.0,Ruas de lazer ativas,1
+385.0,Número de Centros de Promoção da Igualdade Racial implantados,1
+386.0,Número acumulado de oficinas realizadas nos centros de atendimento vinculados à Secretaria de Direitos Humanos e Cidadania junto à comunidade visando a divulgação dos serviços e promoção e defesa de Direitos Humano,1
+387.0,Número de Balcões de Cidadania implantados,1
+388.0,Número de empresas que aderiram ao Selo de Direitos Humanos e Diversidade,1
+389.0,Número de pessoas atendidas pelos Centros de Cidadania LGBT,1
+390.0,Número de pessoas atendidas pelos Centros de Atendimento vinculados à Secretaria de Direitos Humanos em Cidadania,1
+391.0,Percentual de trabalhadores colocados via SINE em relação ao número total de trabalhadores admitidos segundo o CAGED,1
+393.0,Área de calçadas requalificadas (m2),1
+394.0,Número de novas vagas criadas em equipamentos de saúde e assistência social para atendimento específico de pessoas em situação de uso abusivo de álcool e outras drogas,1
+395.0,Número de atendimentos realizados pelos serviços de promoção da igualdade racial vinculados à SMDHC,4
+396.0,Número de projetos em execução fomentados pelo Fundo Municipal da Criança e do Adolescente (FUMCAD),1
+398.0,[ODS.02.03] Terras indígenas no município (%),1
+399.0,[ODS 01.04] Renda municipal detida pelas pessoas 20% mais pobres,1
+400.0,[ODS02.03] Participação das unidades de produção familiar na agricultura (%),1
+402.0,Número de famílias beneficiadas com obras de urbanização de assentamentos precários em andamento ,1
+403.0,Proporção de parto normal nas maternidades sob gestão municipal,1
+404.0,Faixas exclusivas de ônibus implantadas (km),1
+405.0,Proporção de empregos formais no Comércio do Município (%),129
+406.0,Proporção de empregos formais no setor de Serviços do Município (%),129
+407.0,Proporção de empregos formais na Indústria de Transformação do Município (%),129
+408.0,Proporção de empregos formais na Construção Civil do Município (%),129
+409.0,Proporção interna ao Distrito de empregos formais no Comércio (%),96
+410.0,Proporção interna ao Distrito de empregos formais nos Serviços (%),96
+411.0,Proporção interna ao Distrito de empregos formais na Indústria de Transformação (%),96
+412.0,Proporção interna ao Distrito de empregos formais na Construção Civil (%),96
+413.0,"Proporção de empregos formais no Comércio do Município, por Distrito (%)",97
+414.0,"Proporção de empregos formais no setor de Serviços do Município, por Distrito (%)",97
+415.0,Proporção de empregos formais no Comércio do Município em relação ao Comércio do Estado (%),2
+416.0,Proporção de empregos formais no setor de Serviços do Município em relação aos Serviços do Estado (%),2
+417.0,Proporção de empregos formais na Indústria de Transformação do Município em relação à Industria de Transformação do Estado (%),2
+418.0,Proporção de empregos formais na Construção Civil do Município em relação à Construção Civil do Estado (%),2
+419.0,"Proporção de empregos formais na Indústria da Transformação do Município, por Distrito (%)",97
+420.0,"Proporção de empregos formais na Construção Civil do Município, por Distrito (%)",97
+421.0,Casos reportados de abuso sexual no transporte público municipal,1
